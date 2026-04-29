@@ -1,0 +1,19 @@
+{
+  "name": "cow-moe",
+  "owner": {
+    "name": "MomoCow",
+    "email": "momocow.me@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "career",
+      "source": "https://github.com/momocow/claude-plugin-career",
+      "description": "Turn Claude Code sessions into a searchable, resume-ready journal with automated resume/CV generation",
+      "version": "0.1.0"
+    }
+  ]
+}
