@@ -16,7 +16,7 @@
         "repo": "momocow/claude-plugin-career"
       },
       "description": "Turn Claude Code sessions into a searchable, resume-ready journal with automated resume/CV generation",
-      "version": "0.1.1"
+      "version": "0.1.2"
     }
   ]
 }
